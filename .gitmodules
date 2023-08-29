@@ -1,0 +1,3 @@
+[submodule "base_image/jammy"]
+	path = base_image/jammy
+	url = git@github.com:phusion/baseimage-docker.git
